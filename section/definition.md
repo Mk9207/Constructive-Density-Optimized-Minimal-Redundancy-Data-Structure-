@@ -1,0 +1,2 @@
+# Definition
+Constructive density optimization is a method of organizing data to achieve logical completeness with the least redundant elements. It is grounded in principles of algorithmic minimality and constructive inference.
